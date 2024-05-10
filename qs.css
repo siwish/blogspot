@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(to right, rgb(112, 242, 76), rgb(83, 201, 96));
+}
+
+h1 {
+    border: 3px solid white;
+    padding: 15px;
+}
+
+form {
+    background-color: white;
+}
+
+.d1 {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: white;
+    width: 30%;
+    float: left;
+    padding: 20px;
+}
+
+.d2 {
+    float: right;
+    width: 65%;
+}
+
+#name {
+    font-size: 15px;
+    font-family: 'Lucida Sans';
+    margin-left: 16px;
+}
+
+#qs {
+    font-size: 14px;
+    margin-left: 40px;
+    color: brown;
+}
+
+#ansd {
+    color: rgb(45, 131, 201);
+    margin-left: 20px;
+}
+
+#ans {
+    font-size: 14px;
+    margin-left: 40px;
+}
+
+#views {
+    text-align: right;
+    color: rgb(255, 0, 170);
+}
+
+#copy {
+    text-align: center;
+    margin-top: 530px;
+}
